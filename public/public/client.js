@@ -182,4 +182,4 @@
     document.body.addEventListener('pointermove', simulateMovement);
     document.body.addEventListener('touchmove', simulateMovement, { passive: false });
   }, { once: true });
-})();.
+})();
